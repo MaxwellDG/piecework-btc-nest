@@ -1,0 +1,3 @@
+episodes to re-watch:
+- Use Transaction (doing multiple actions that could fail and having to rollback if one does fail)
+- Use Cascading Inserts and Updates (adding an entity with a property that's a new version of an entity. Cascade the changes. There are other uses than what I described)
